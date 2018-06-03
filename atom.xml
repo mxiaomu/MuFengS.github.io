@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>沐风</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-03T07:37:24.405Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>沐风</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致谢</title>
+    <link href="http://yoursite.com/2018/05/31/%E8%87%B4%E8%B0%A2/"/>
+    <id>http://yoursite.com/2018/05/31/致谢/</id>
+    <published>2018-05-31T14:13:20.000Z</published>
+    <updated>2018-06-03T07:37:24.405Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/2018/05/31/致谢/yan.jpg" alt="萤火之森"></p><center>平生执念，不过一盏香茗岁月，一卷诗书记忆，一捧清涧人间</center><a id="more"></a><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=28188427&auto=1&height=66"></iframe><hr><font color="red" face="楷体" size="5">平生执念，不过一盏香茗岁月，一卷诗书记忆，一捧清涧人间</font> <center>感谢青春，感谢大家！</center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/05/31/致谢/yan.jpg&quot; alt=&quot;萤火之森&quot;&gt;&lt;/p&gt;
+&lt;center&gt;平生执念，不过一盏香茗岁月，一卷诗书记忆，一捧清涧人间&lt;/center&gt;
+    
+    </summary>
+    
+    
+      <category term="友谊" scheme="http://yoursite.com/tags/%E5%8F%8B%E8%B0%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>世界上最遥远的距离</title>
+    <link href="http://yoursite.com/2018/05/31/%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%81%A5%E8%BF%9C%E7%9A%84%E8%B7%9D%E7%A6%BB/"/>
+    <id>http://yoursite.com/2018/05/31/世界上最遥远的距离/</id>
+    <published>2018-05-31T00:21:40.467Z</published>
+    <updated>2018-06-03T08:05:48.844Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/2018/05/31/世界上最遥远的距离/ying.jpg" alt=""></p><a id="more"></a><center><br><br><font size="6" face="华文行楷"><br><br>   世界上最遥远的距离<br>   不是生与死的距离<br>   而是我就站在你面前<br>   你却不知道我爱你<br>   世界上最遥远的距离<br>   不是我就站在你面前<br>   你却不知道我爱你<br>   而是爱到痴迷<br>   却不能说我爱你<br>   世界上最遥远的距离<br>   不是我不能说我爱你<br>   而是想你痛彻心脾<br>   却只能能深埋心底<br>   世界上最遥远的距离<br>   不是我不能说我想你<br>   而是彼此相爱<br>   却不能够在一起<br>   世界上最遥远的距离<br>   不是彼此相爱<br>   却不能够在一起<br>   而是明知道真爱无敌<br>   却装作毫不在意<br>   世界上最遥远的距离<br>   不是树与树的距离<br>   而是同根生长的树枝<br>   却无法在风中相依<br>   世界上最遥远的距离<br>   不是树枝无法相依<br>   而是相互了望的星星<br>   却没有交汇的轨迹<br>   世界上最遥远的距离<br>   不是星星没有交汇的轨迹<br>   而是纵然轨迹交汇<br>   却在转瞬间无处寻觅<br>   世界上最遥远的距离<br>   不是瞬间便无处寻觅<br>   而是尚未相遇<br>   便注定无法相遇<br>   世界上最遥远的距离<br>   是鱼与飞鸟的距离<br>   一个翱翔天际<br>   一个却深潜海底<br><br></font><br><br></center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=165614&auto=1&height=66"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/05/31/世界上最遥远的距离/ying.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
