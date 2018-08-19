@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-03T07:37:24.405Z</updated>
+  <updated>2018-06-06T12:12:28.857Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>断弦</title>
+    <link href="http://yoursite.com/2018/06/06/%E6%96%AD%E5%BC%A6/"/>
+    <id>http://yoursite.com/2018/06/06/断弦/</id>
+    <published>2018-06-06T11:51:36.000Z</published>
+    <updated>2018-06-06T12:12:28.857Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/2018/06/06/断弦/断弦.jpg" alt="秋殇"></p><a id="more"></a><p>琴声悠悠，黄河东流……我的记忆仿佛飘散，终迷失了所有。</p><p>一曲离殇被湍湍秋水带走，孤独的在秋风中流浪。秋叶为之动容，悲戚的它觉得应该做些什么，只好随风飘荡轻轻摇曳在诗人的梦中。秋月高高的升起，皎洁的光中透着寒凉，终于它听到了琴声，悲切的藏到几片云中掩饰泪水，天地陷入长眠中，静静的。只有江中渔舟灯火还在聆听着亘古不变的歌谣:”千里泛悠波……绝弦赋长歌……”</p><p>那是一支断弦演奏的最后一曲秋殇。</p><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=402070888&auto=1&height=66"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2018/06/06/断弦/断弦.jpg&quot; alt=&quot;秋殇&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="那是一支断弦演奏的最后一曲秋殇" scheme="http://yoursite.com/tags/%E9%82%A3%E6%98%AF%E4%B8%80%E6%94%AF%E6%96%AD%E5%BC%A6%E6%BC%94%E5%A5%8F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%9B%B2%E7%A7%8B%E6%AE%87/"/>
+    
+  </entry>
   
   <entry>
     <title>致谢</title>
